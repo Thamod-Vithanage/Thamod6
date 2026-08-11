@@ -2,13 +2,13 @@
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/thamod-vithanage" target="_blank">
+  <a href="https://www.linkedin.com/in/thamod-vithanage-bb85aa305" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:thamoduthpala@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Thamod6" target="_blank">
+  <a href="https://github.com/Thamod-Vithanage" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -19,7 +19,7 @@
 
 Motivated **Full Stack Developer** with hands-on experience designing, developing, and deploying responsive web applications and SaaS solutions. Skilled in **React.js, Next.js, PHP, ASP.NET, MySQL, and MongoDB**, with a strong focus on admin panel development, backend systems, API integration, and database management. Proactive problem-solver with solid Agile development experience, committed to delivering scalable, user-focused software.
 
-- 🎓 B.Sc. (Hons) Software Engineering — University of Bedfordshire, UK
+- 🎓 B.Sc. (Hons) Software Engineering (Second Class Upper Division) — University of Bedfordshire, UK
 - 💼 Currently building a multi-tenant SaaS platform for online store creation (Shopify-style)
 - 🌱 Working across the full stack — React/Next.js frontend, ASP.NET/PHP backend, MySQL/MongoDB databases
 - 📫 Reach me at **thamoduthpala@gmail.com**
@@ -73,12 +73,12 @@ Led a 5-member team building a full vehicle rental platform with secure auth, bo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thamod6&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamod6&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thamod-Vithanage&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamod-Vithanage&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thamod6&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thamod-Vithanage&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
